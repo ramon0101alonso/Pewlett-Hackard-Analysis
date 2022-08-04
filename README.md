@@ -18,7 +18,7 @@
 
 ![This is an image](https://github.com/ramon0101alonso/Pewlett-Hackard-Analysis/blob/main/mentorship%20table.png)
 
-# Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+# Summary
 
-### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+#### In order to survive the "silver tsunami", Pewlett Hackard will have to hire around 70K new employees.
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
