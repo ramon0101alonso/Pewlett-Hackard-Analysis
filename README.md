@@ -12,9 +12,8 @@
 
 #### By using an ERD, SQL queries and tables for staff born in the 1965 year, the report found two interesting points.
 - The Senior Staff will be the main group availavble for mentoring.
-- Tere
+- A well balanced team of Technique Leaders, Engineers, and support staff will supplent the mentorship program.
 
-Use images as support where needed.
 ![This is an image](https://github.com/ramon0101alonso/Pewlett-Hackard-Analysis/blob/main/Screen%20Shot%202022-08-03%20at%2011.54.47%20PM.png)
 
 # Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
