@@ -12,7 +12,7 @@
 - bullet 3 
 
 Use images as support where needed.
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/ramon0101alonso/Pewlett-Hackard-Analysis/blob/main/Screen%20Shot%202022-08-03%20at%2011.54.47%20PM.png)
 
 # Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
