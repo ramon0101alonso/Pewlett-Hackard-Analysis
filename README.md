@@ -1,6 +1,5 @@
 # Pewlett-Hackard-Analysis
 
-For this part of the Challenge, you’ll write a report to help the manager prepare for the upcoming
 
 # Silver Tsunami Report
 
