@@ -3,13 +3,16 @@
 # Silver Tsunami Report
 
 ## Overview
-### In the coming up years there will be numerous amounts of employees that will be elgible for retirement. Those with titles of Senior Engineer and Senior Staff have the highest exit in Pewlett_Hackard. Managers will be the only employees with the lowest turn over.
+#### In the coming up years there will be numerous amounts of employees that will be elgible for retirement.  A high number of senior staff will be retiring and therefore Pewlett-Hackard will need to fill these positions with the help of a mentorship program.  This report was created using an ERD, SQL tables and queries.  
 
+## Silver Tsunami Results
+#### Two points to be taken away from the Pewlett_Hackard Silver Tsunami Report using data from 1952 -1955.
+- Senior Staff will have the highest retirement number.
+- Managers will have the lowest retirement number.
 
-# Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-- bullet 1
-- bullet 2
-- bullet 3 
+#### By using an ERD, SQL queries and tables for staff born in the 1965 year, the report found two interesting points.
+- The Senior Staff will be the main group availavble for mentoring.
+- Tere
 
 Use images as support where needed.
 ![This is an image](https://github.com/ramon0101alonso/Pewlett-Hackard-Analysis/blob/main/Screen%20Shot%202022-08-03%20at%2011.54.47%20PM.png)
