@@ -20,5 +20,4 @@
 
 # Summary
 
-#### In order to survive the "silver tsunami", Pewlett Hackard will have to hire around 70K new employees.
-### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+#### In order to survive the "silver tsunami", Pewlett Hackard will have to hire around 70K new employees.  According to data from 1965, there will not be enough employees available for the future generations.  Pewlett Hackard will have to increase the mentorship pool from 1960 - 1965.  This wider range will bring more qualified mentorship support for future staff.
