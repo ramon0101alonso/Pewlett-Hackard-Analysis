@@ -46,4 +46,5 @@ INNER JOIN dept_emp
 ON dept_emp.emp_no = employees.emp_no
 INNER JOIN titles
 ON dept_emp.emp_no = titles.emp_no
--- WHERE (current_emp.to_date = '9999-01-01' AND (employees.birth_date  BETWEEN '1965-01-01' AND '1965-12-31');
+WHERE (dept_emp.to_date = '9999-01-01') AND (employees.birth_date  BETWEEN '1965-01-01' AND '1965-12-31')
+ORDER BY  employees.emp_no;
